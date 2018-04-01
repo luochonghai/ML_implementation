@@ -6,4 +6,4 @@ Implementation_for_machine_learning_algorithms
 2.Log
 ----
 180401: logistic_regression
->>use sklearn to test its performance first,then use numpy to implement the alogrithm via normal/stochastic grandient descent methods.
+>use sklearn to test its performance first,then use numpy to implement the alogrithm via normal/stochastic grandient descent methods.
