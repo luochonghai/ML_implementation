@@ -11,3 +11,5 @@ Implementation_for_machine_learning_algorithms
 <br>use sklearn's logistic regression to compare 10-fold cross validation&leave-one-out methods.
 <br><br>180401: linear_discriminant_analysis(dataset:ZhihuaZhou "Machine Learning" P89)
 <br>use sklearn to test its performance first, then use numpy to implement the algorithm via normal/outlier(X[15])-deleted LDA.
+<br>180406:ID3_decision_tree(dataset:ZhihuaZhou "Machine Learning" P84)
+<br><br>use pandas to implement the algorithm, show data_distribution_pic by seaborn and illustrate the decision tree structure via graphviz(both in Chinese).
