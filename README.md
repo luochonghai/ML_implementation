@@ -15,3 +15,5 @@ Implementation_for_machine_learning_algorithms
 <br>use pandas to implement the algorithm, show data_distribution_pic by seaborn and illustrate the decision tree structure via graphviz(both in Chinese).
 <br><br>180407:CART_decision_tree(dataset:ZhihuaZhou "Machine Learning" P80)
 <br>use pandas to implement the algorithm, show the strucutre of "full" tree,the prepruned version and the postpruned version via graphviz.
+<br><br>180421:standard back propagation algorithm
+<br>implement BP algorithm and train an xor NN.
