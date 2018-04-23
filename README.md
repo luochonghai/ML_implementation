@@ -17,3 +17,5 @@ Implementation_for_machine_learning_algorithms
 <br>use pandas to implement the algorithm, show the strucutre of "full" tree,the prepruned version and the postpruned version via graphviz.
 <br><br>180421:standard back propagation algorithm
 <br>implement BP algorithm and train an xor NN.
+<br><br>180423:use SVM to classify the dataset of breast cancer,and compare its result with BP algorithm.
+<br>implement SVM via sklearn, and implement BP algorithm via PyBrain.
