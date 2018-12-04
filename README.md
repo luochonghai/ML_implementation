@@ -19,3 +19,6 @@ Implementation_for_machine_learning_algorithms
 <br>implement BP algorithm and train an xor NN.
 <br><br>180423:use SVM to classify the dataset of breast cancer,and compare its result with BP algorithm.
 <br>implement SVM via sklearn, and implement BP algorithm via PyBrain.
+<br><br>181204:compare the difference between func of normal distribution & sigmoid func, to find out why sigmoid func is widely used at the very beginning
+<img src="https://github.com/luochonghai/ML_implementation/blob/master/BP/sigmoid_vs_normal_distir(func).png"  alt="sigmoid_vs_normal_distir(func)"/>
+<img src="https://github.com/luochonghai/ML_implementation/blob/master/BP/sigmoid_vs_normal_distri(derivative).png"  alt="sigmoid_vs_normal_distir(derivative)"/>
